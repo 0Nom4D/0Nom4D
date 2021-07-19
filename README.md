@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A second-year computer engineering student from France.
+  A third-year computer engineering student from France.
 </p>
 
 <p align='center'>
