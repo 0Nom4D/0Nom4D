@@ -3,11 +3,13 @@
 </h1>
 
 <p align='center'>
-  A third-year computer engineering student and EPITECH Regional Assistant at EPITECH Nantes from France.
+  A third-year computer engineering student and former EPITECH Regional Assistant at EPITECH Nantes from France.
 </p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0Nom4D&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nom4D&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
+</p>
 </p>
 
 <h3><p align='center'>Projects</p></h3>
@@ -20,62 +22,45 @@
 
 ## Workspaces and learned Technologies
 
+### Languages
 
-<h3><p align='center'>Languages</p></h3>
+<a target='_blank'><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</p>
+### Specs
 
-<h3><p align='center'>Specs</p></h3>
+<a target='_blank'><img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/intel-core%20i5%209600K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/nvidia-gtx%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/intel-core%20i5%209600K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white">
-  <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white">
-  <img src="https://img.shields.io/badge/nvidia-gtx%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white">
-  <img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white">
-  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0">
-</p>
+### Technologies
 
+<a target='_blank'><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Github%20Action-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white"></a>
 
-<h3><p align='center'>Technologies</p></h3>
+### Text Editors
 
-<p align='center'>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white">
-  <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Github%20Action-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=white">
-  <img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white">
-</p>
-
-
-<h3><p align='center'>Text Editors</p></h3>
-
-<p align='center'>
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-  <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white">
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white">
-  <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white">
-  <img src="https://img.shields.io/badge/Webstorm-3A9BDC?&style=for-the-badge&logo=webstorm&logoColor=white">
-  <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white">
-  <img src="https://img.shields.io/badge/Emacs-7F5AB6?style=for-the-badge&logo=GNU%20Emacs&logoColor=white">
-  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white">
-</p>
-
-<p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nom4D&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
-</p>
+<a target='_blank'><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Webstorm-3A9BDC?&style=for-the-badge&logo=webstorm&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"></a>
