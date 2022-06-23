@@ -8,7 +8,7 @@
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=0Nom4D&count_private=true&show_icons=true&include_all_commits=true&theme=synthwave"></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nom4D&hide=shaderlab,css,hlsl,cmake&langs_count=6&layout=compact&theme=synthwave"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Nom4D&hide=shaderlab,css,hlsl,cmake,gsc&langs_count=6&layout=compact&theme=synthwave"></a>
 </p>
 </p>
 
