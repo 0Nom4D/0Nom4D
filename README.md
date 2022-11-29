@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A third-year computer engineering student and former EPITECH Regional Assistant at EPITECH Nantes from France.
+  A fourth-year computer engineering student and former EPITECH Regional Assistant at EPITECH Nantes from France.
 </p>
 
 <p align='center'>
@@ -27,6 +27,7 @@
 <a target='_blank'><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"></a>
@@ -40,7 +41,7 @@
 <a target='_blank'><img src="https://img.shields.io/badge/intel-core%20i5%209600K-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/nvidia-gtx%203070-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white"></a>
-<a target='_blank'><img src="https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white"></a>
+<a target='_blank'><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge"></a>
 <a target='_blank'><img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0"></a>
 
 ### Technologies
