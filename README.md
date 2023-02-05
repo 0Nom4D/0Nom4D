@@ -16,7 +16,7 @@
 <p align='center'>
   <a href="https://github.com/0Nom4D/mdCreator"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0Nom4D&repo=mdCreator&theme=synthwave&show_icons=true"></a>
   <a href="https://github.com/0Nom4D/Qwiddo"><img src="https://github-readme-stats.vercel.app/api/pin/?username=0Nom4D&repo=Qwiddo&theme=synthwave&show_icons=true"></a>
-  <a href="https://github.com/AnonymusRaccoon/Aeris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=AnonymusRaccoon&repo=Aeris&theme=synthwave&show_icons=true"></a>
+  <a href="https://github.com/zoriya/Aeris"><img src="https://github-readme-stats.vercel.app/api/pin/?username=zoriya&repo=Aeris&theme=synthwave&show_icons=true"></a>
   <a href="https://github.com/Jeremy-Pinson/MUL_my_rpg_2019"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Jeremy-Pinson&repo=MUL_my_RPG_2019&theme=synthwave&show_icons=true"></a>
 </p>
 
