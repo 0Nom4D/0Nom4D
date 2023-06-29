@@ -3,7 +3,7 @@
 </h1>
 
 <p align='center'>
-  A fourth-year computer engineering student and former EPITECH Regional Assistant at EPITECH Nantes from France.
+  A fifth-year computer engineering student and current junior EPITECH Pedagogic Assistant at EPITECH Nantes from France.
 </p>
 
 <p align='center'>
