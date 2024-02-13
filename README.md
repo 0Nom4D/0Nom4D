@@ -7,7 +7,7 @@
 - 🔬 Former medical student at UFR Santé Nantes
 - 📚 5th year student in Programming and Computer Science
 - 🔴⚪ Great supporter of the Stade de Reims
-- 🔱 Huge fan of Destiny 2 and Baldur's Gate 3
+- 🔱 Huge fan of Destiny 2, Baldur's Gate 3 and Helldivers 2
 
 ## *Wanna see my medals?*
 
@@ -20,9 +20,9 @@ For the past 2 years, I've been focusing on working on web and mobile project.
 
 I also made some other projets that are not mobile development:
 
-- 💽 [T6 Modding Workshop](https://github.com/0Nom4D/T6_Mods_Workshop), some modding exercises to discover GSC modding for Call Of Duty
+- 💽 [T6 Modding Workshop](https://github.com/0Nom4D/T6_Mods_Workshop), a quick workshop to discover GSC modding for Call Of Duty: Black Ops 2
 - ⚔️ [my_RPG](https://github.com/Jeremy-Pinson/MUL_my_rpg_2019), a RPG game, made in C with C SFML bindings
-- ➕ You can find some others projects on this [repository](https://github.com/0Nom4D/Fontys-Exchange-2022) or directly on my [profile](https://github.com/0Nom4D).
+- ➕ You can find some others projects on this [repository](https://github.com/0Nom4D/Fontys-Exchange-2022) or directly on my [profile](https://github.com/0Nom4D?tab=repositories).
 
 ## *Some technologies I'm enjoying working on*
 
