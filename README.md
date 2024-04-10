@@ -32,6 +32,6 @@ I also made some other projets that are not mobile development:
 
 <img align="right" height="300" width="375" src="https://github.com/0Nom4D/0Nom4D/blob/master/graves_beast.gif?raw=true">
 
-[![0Nom4D's stats](https://github-readme-stats.vercel.app/api?username=0Nom4D&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
+[![0Nom4D's stats](https://github-readme-stats-0nom4ds-projects.vercel.app/api?username=0Nom4D&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0Nom4D&hide_progress=true&theme=shadow_red&hide=gsc,smt,java,jupyter%20notebook)
+![Top Langs](https://github-readme-stats-0nom4ds-projects.vercel.app/api/top-langs/?username=0Nom4D&hide_progress=true&theme=shadow_red&hide=gsc,smt,java,jupyter%20notebook)
