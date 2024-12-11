@@ -5,7 +5,8 @@
 
 - 🇫🇷 French
 - 🔬 Former medical student at UFR Santé Nantes
-- 📚 5th year student in Programming and Computer Science
+- 📚 EPITECH Graduated
+- 📱 Native Android Junior Developer
 - 🔴⚪ Great supporter of the Stade de Reims
 - 🔱 Huge fan of Destiny 2, Baldur's Gate 3 and Helldivers 2
 
