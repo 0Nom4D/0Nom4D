@@ -27,7 +27,7 @@ I also worked on some other projets that are not mobile development:
 
 ## *Some technologies I enjoy working with*
 
-<code>![AltText](https://skillicons.dev/icons?i=c,cpp,python,typescript,flutter,kotlin,nest,react,swift,haskell,ruby)</code>
+<code>![AltText](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,flutter,nest,typescript,c,cpp,python,react,swift,haskell,ruby)</code>
 
 ## *Some stats*
 
