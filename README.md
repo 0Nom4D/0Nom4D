@@ -6,11 +6,11 @@
 - 🇫🇷 French
 - 🔬 Former medical student at UFR Santé Nantes
 - 📚 EPITECH Graduated
-- 📱 Native Android Junior Developer
+- 📱 Native Android Confirmed Developer
 - 🔴⚪ Great supporter of the Stade de Reims
 - 🔱 Huge fan of Destiny 2, Baldur's Gate 3 and Helldivers 2
 
-## *Wanna see my medals?*
+## *Some projects I've worked on*
 
 Since the end of my 2nd year at EPITECH, I've been focusing on working on web and mobile project.
 
@@ -25,14 +25,8 @@ I also worked on some other projets that are not mobile development:
 - ⚔️ [my_RPG](https://github.com/Jeremy-Pinson/MUL_my_rpg_2019), a RPG game, made in C with C SFML bindings
 - ➕ You can find some others projects on this [repository](https://github.com/0Nom4D/Fontys-Exchange-2022) or directly on my [profile](https://github.com/0Nom4D?tab=repositories).
 
+Since March 2024, I'm working as a confirmed Android Developer for @LuccaSA. Contributions are hidden but trust me, I'm really working. :)
+
 ## *Some technologies I enjoy working with*
 
-<code>![AltText](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,flutter,nest,typescript,c,cpp,python,react,swift,haskell,ruby)</code>
-
-## *Some stats*
-
-<img align="right" height="300" width="375" src="https://github.com/0Nom4D/0Nom4D/blob/master/graves_beast.gif?raw=true">
-
-[![0Nom4D's stats](https://github-readme-stats-0nom4ds-projects.vercel.app/api?username=0Nom4D&theme=shadow_red)](https://github.com/anuraghazra/github-readme-stats)
-
-![Top Langs](https://github-readme-stats-0nom4ds-projects.vercel.app/api/top-langs/?username=0Nom4D&hide_progress=true&theme=shadow_red&hide=gsc,smt,java,jupyter%20notebook)
+<code>![AltText](https://skills-icons.vercel.app/api/icons?i=kotlin,jetpackcompose,flutter,nest,typescript,c,cpp,csharp,python,react,swift,haskell,ruby)</code>
